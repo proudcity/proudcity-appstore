@@ -1,5 +1,5 @@
 # proudcity-plugins
-## The ProudCity plugin store
+The ProudCity plugin store
 
 
 ## Suggest your plugin
