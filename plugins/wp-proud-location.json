@@ -9,9 +9,8 @@
    ],
    "homepage":"",
    "sections":{  
-      "description":"<p></p>",
-      "faq":"<p></p>",
-      "other_notes":"<p></p>"
+      "description":"<p>Add custom locations to be displayed on a map</p>",
+      "installation":"<p></p>",
    },
    "short_description":"Add custom locations to be displayed on a map",
    "download_link":"https://github.com/proudcity/wp-proud-location/archive/1.0.0.zip",

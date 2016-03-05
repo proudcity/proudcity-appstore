@@ -13,11 +13,10 @@
    ],
    "homepage":"",
    "sections":{  
-      "description":"<p></p>",
-      "faq":"<p></p>",
-      "other_notes":"<p></p>"
+      "description":"<p>Manage payment instructions and forms</p>",
+      "installation":"<p></p>"
    },
-   "short_description":"",
+   "short_description":"Manage payment instructions and forms",
    "download_link":"https://github.com/proudcity/wp-proud-payment/archive/1.0.0.zip",
    "donate_link":"",
    "banners":{  

@@ -10,7 +10,7 @@
    "homepage":"",
    "sections":{  
       "description":"<p>Accept credit card payments from <a href=\"http://stripe.com\">Stripe</a> directly on your forms</p>",
-      "installation":"<ol><li>Get your security tokens and enter them below</li><li>Create a new form, add a payment box</li><li>Attach form to a new Page, or a Document or Payment</li></ol>",
+      "installation":"<ol><li>Get your security tokens and enter them below</li><li>Create a new form, add a payment box</li><li>Attach form to a new Page, or a Document or Payment</li></ol>"
    },
    "short_description":"Accept credit card payments from <a href=\"http://stripe.com\">Stripe</a> directly on your forms",
    "download_link":"",
