@@ -10,8 +10,7 @@
    "homepage":"",
    "sections":{  
       "description":"<p></p>",
-      "installation":"<ol><li>Add documents with Document Categories</li>
-      <li>Add a Document list widget to a Panels Page</li></ol>"
+      "installation":"<ol><li>Get your security tokens and enter them below</li><li>Create a new form, add a payment box</li><li>Create a new form, attach it to a new Page, or a Document or Payment</li></ol>"
    },
    "short_description":"Accept credit card payments from <a href=\"http://Authorize.net\">Authorize.net directly on your forms",
    "download_link":"",
