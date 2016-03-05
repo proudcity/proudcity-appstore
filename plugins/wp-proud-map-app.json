@@ -21,8 +21,8 @@
    "download_link":"https://github.com/proudcity/wp-proud-map-app/archive/1.0.0.zip",
    "donate_link":"",
    "banners":{  
-      "high":"\/\/ps.w.org\/auth0\/assets\/banner-1544x500.png?rev=1361903",
-      "low":"\/\/ps.w.org\/auth0\/assets\/banner-772x250.png?rev=1361903"
+      "high":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg",
+      "low":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg"
    },
    "icons":{  
       "2x":"http://www.macwright.org/presentations/beyond/mapbox_symbol.png",
