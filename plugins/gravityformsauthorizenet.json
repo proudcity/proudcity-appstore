@@ -1,16 +1,16 @@
 {  
-   "name":"Authorize.net payments",
+   "name":"Authorize.net",
    "slug":"gravityformsauthorizenet",
    "version":"2.1.8",
-   "author":"<a href=\"https:\/\/proudcity.com\">ProudCity<\/a>",
-   "author_profile":"\/\/profiles.wordpress.org\/proudcity",
+   "author":"<a href=\"http:\/\/gravityforms.com\">Gravity Forms<\/a>",
+   "author_profile":"\/\/profiles.wordpress.org\/gravityforms",
    "added":"2016-03-01",
    "options": [
    ],
    "homepage":"",
    "sections":{  
-      "description":"<p></p>",
-      "installation":"<ol><li>Get your security tokens and enter them below</li><li>Create a new form, add a payment box</li><li>Create a new form, attach it to a new Page, or a Document or Payment</li></ol>"
+      "installation":"<ol><li>Get your security tokens and enter them below</li><li>Create a new form, add a payment box</li><li>Create a new form, attach it to a new Page, or a Document or Payment</li></ol>",
+      "description":"<p></p>"
    },
    "short_description":"Accept credit card payments from <a href=\"http://Authorize.net\">Authorize.net directly on your forms",
    "download_link":"",
@@ -20,7 +20,7 @@
       "low":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg"
    },
    "icons":{  
-      "2x":"http://proudcity.github.io/proudcity-plugins/plugins/icons/authorizenet.png",
-      "1x":"http://proudcity.github.io/proudcity-plugins/plugins/icons/authorizenet.png"
+      "2x":"//proudcity.github.io/proudcity-plugins/plugins/icons/authorizenet.gif",
+      "1x":"//proudcity.github.io/proudcity-plugins/plugins/icons/authorizenet.gif"
    }
 }
