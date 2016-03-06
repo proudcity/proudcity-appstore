@@ -1,0 +1,10 @@
+[
+  { name: "Proud City", slug: "proudcity" },
+  { name: "Proud Department", slug: "proudagency" },
+  { name: "Proud Intranet", slug: "proudintranet" },
+  { name: "Proud Library", slug: "ProudLibrary" },
+  { name: "Proud City Council", slug: "ProudCityCouncil" },
+  { name: "Proud Chamber of Commerce", slug: "ProudCityCouncil" },
+  //{ name: "Proud Police", slug: "ProudPolice" },
+  //{ name: "Proud Mayor", slug: "ProudMayor" },
+]
