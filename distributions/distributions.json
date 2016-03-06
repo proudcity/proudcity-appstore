@@ -1,10 +1,14 @@
+//
+// NOTE: The definitive version of this data exists in `wp-calypso/client/signup/steps/theme-selection/index.json`
+// This is lives here for reference only.
+
 [
-  { name: "Proud City", slug: "proudcity" },
+  { name: "ProudCity", slug: "proudcity" },
   { name: "Proud Department", slug: "proudagency" },
   { name: "Proud Intranet", slug: "proudintranet" },
-  { name: "Proud Library", slug: "ProudLibrary" },
-  { name: "Proud City Council", slug: "ProudCityCouncil" },
-  { name: "Proud Chamber of Commerce", slug: "ProudCityCouncil" },
+  { name: "Proud Library", slug: "proudlibrary" },
+  { name: "Proud City Council", slug: "proudcitycouncil" },
+  { name: "Proud Chamber of Commerce", slug: "proudchamberofcommerce" },
   //{ name: "Proud Police", slug: "ProudPolice" },
   //{ name: "Proud Mayor", slug: "ProudMayor" },
 ]
