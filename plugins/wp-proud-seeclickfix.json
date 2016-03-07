@@ -9,10 +9,10 @@
    ],
    "homepage":"",
    "sections":{  
-      "description":"<p>Integrate the create issue, issue lookup, and issue map box with SeeClickFix</p>",
+      "description":"<p>Integrate the create issue, issue lookup, and issue map box with <a href='http://seeclickfix.com'>SeeClickFix</a></p>",
       "installation":"<p></p>"
    },
-   "short_description":"Integrate the create issue, issue lookup, and issue map box with SeeClickFix",
+   "short_description":"Integrate the create issue, issue lookup, and issue map box with <a href='http://seeclickfix.com'>SeeClickFix</a>",
    "download_link":"https://github.com/proudcity/wp-proud-seeclickfix/archive/1.0.0.zip",
    "donate_link":"",
    "banners":{  
