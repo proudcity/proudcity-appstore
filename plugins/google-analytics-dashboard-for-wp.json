@@ -1,0 +1,20 @@
+{  
+   "name":"Google Analytics",
+   "added":"2016-03-01",
+   "options": [
+   ],
+   "sections":{  
+      "description":"<p>Collect and view detailed analytics to track website performance</p>",
+      "installation":"<p></p>"
+   },
+   "short_description":"Collect and view detailed analytics to track website performance",
+   "donate_link":"",
+   "banners":{  
+      "high":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg",
+      "low":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg"
+   },
+   "icons":{  
+      "2x":"//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png",
+      "1x":"//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
+   }
+}
