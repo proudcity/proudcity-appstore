@@ -4,6 +4,23 @@
    "options": [
    ],
    "sections":{  
+      "configuration": {
+         "instructions":"Go to <a href='http://google.com'>Google</a>",
+         "fields" : {
+            "google_analytics_key": {
+               "type":"textfield",
+               "title":"Tracking code",
+               "placeholder":"UA-",
+               "description":"<a href='#'>aadsf</a>"
+            },
+            "google_analytics_profile": {
+               "type":"textfield",
+               "title":"View profile id",
+               "placeholder":"",
+               "description":"<a href='#'>aadsf</a>"
+            }
+         }
+      },
       "description":"<p>Collect and view detailed analytics to track website performance</p>",
       "installation":"<p></p>"
    },
