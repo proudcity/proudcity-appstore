@@ -27,7 +27,7 @@
   {
     "key": "issues",
     "title": "Add issue reporting",
-    "icon": "fa-credit-card",
+    "icon": "fa-exclamation-triangle",
     "link": "\/wp-admin\/edit.php?post_type=issue",
     "time": "1 hour",
     "description": "Make it easy for your citizens to report a pothole, fire hazards, or problem traffic signals.  You can choose to integrate with existing industry-leading tools like SeeClickFix and Romulus, or you can build out custom forms and notification worksflows using our form builder."
