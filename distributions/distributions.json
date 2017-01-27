@@ -3,12 +3,10 @@
 // This is lives here for reference only.
 
 [
-  { name: "ProudCity", slug: "proudcity" },
-  { name: "Proud Department", slug: "proudagency" },
-  { name: "Proud Intranet", slug: "proudintranet" },
-  { name: "Proud Library", slug: "proudlibrary" },
-  { name: "Proud City Council", slug: "proudcitycouncil" },
-  { name: "Proud Chamber of Commerce", slug: "proudchamberofcommerce" },
+  { name: "ProudCity", slug: "proudcity", price: "$0.02" },
+  { name: "Service Center", slug: "service-center", price: "$0.01" },
+  { name: "Agency", slug: "proud-agency", price: "$0.0025" },
+  { name: "Intranet", slug: "proud-intranet", price: "$0.01" },
   //{ name: "Proud Police", slug: "ProudPolice" },
   //{ name: "Proud Mayor", slug: "ProudMayor" },
 ]
