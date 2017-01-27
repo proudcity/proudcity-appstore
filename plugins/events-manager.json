@@ -1,6 +1,7 @@
 {  
    "name":"Events",
    "short_description":"Events Manager",
+   "tag": "proudcity",
    "icons":{  
       "2x":"//proudcity.github.io/proudcity-appstore/plugins/icons/calendar.png",
       "1x":"//proudcity.github.io/proudcity-appstore/plugins/icons/calendar.png"

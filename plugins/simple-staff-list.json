@@ -1,6 +1,7 @@
 {  
    "name":"Contacts",
    "short_description":"Simple Staff List",
+   "tag": "proudcity",
    "banners":{  
       "high":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg",
       "low":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg"

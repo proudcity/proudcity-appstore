@@ -1,6 +1,7 @@
 {  
    "name":"PayPal",
    "slug":"gravityformspaypal",
+   "tag": "other",
    "version":"2.1.8",
    "author":"<a href=\"http:\/\/gravityforms.com\">Gravity Forms<\/a>",
    "author_profile":"\/\/profiles.wordpress.org\/gravityforms",

@@ -1,6 +1,7 @@
 {  
    "name":"Payments",
    "slug":"wp-proud-payment",
+   "tag": "proudcity",
    "version":"1.0.0",
    "author":"<a href=\"https:\/\/proudcity.com\">ProudCity<\/a>",
    "author_profile":"\/\/profiles.wordpress.org\/auth0",
