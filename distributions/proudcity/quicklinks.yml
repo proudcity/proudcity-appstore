@@ -1,0 +1,34 @@
+---
+- title: Pages
+  icon: fa-file
+  link: /wp-admin/edit.php?post_type=page
+  video: v2Hm-XkZ0WY
+- title: Documents
+  icon: fa-question
+  link: /wp-admin/edit.php?post_type=document
+  plugin: wp-proud-document
+  video: 
+- title: Payments
+  icon: fa-file-text
+  link: /wp-admin/edit.php?post_type=payment
+  video:
+  plugin: wp-proud-payments
+- title: Forms
+  icon: fa-credit-card-o
+  link: /wp-admin/admin.php?page=gf_edit_forms
+  video:
+  plugin: gravityforms
+- title: News
+  icon: fa-newspaper-o
+  link: /wp-admin/edit.php
+  video:
+- title: Events
+  icon: fa-calendar
+  link: /wp-admin/edit.php?post_type=event
+  video:
+  plugin: wp-proud-payments
+- title: Social
+  icon: fa-comments
+  link:
+  video:
+  plugin: wp-proud-social-app
