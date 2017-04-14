@@ -72,10 +72,19 @@ proudcity:
   title: Forms
   teaser: Easy-to-build, mobile friendly forms for registrations, payments and more.
   screenshot:
-  - https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/proudcity-forms.gif
-  body: ProudCity Forms makes it easy for governments to create and manage secure,
-    mobile-friendly online forms. Use for Payments (fines, tickets), Permits, Issue
-    reporting, Job applications, Subscriptions, Public record requests and more.
+  - https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/form-builder.gif
+  body: |
+    ProudCity Forms makes it easy for governments to create and manage secure,
+    mobile-friendly online forms. Use for:
+    <ul>
+      <li>Payments (fines, tickets)<li>
+      <li>Permits
+      <li>Issue reporting
+      <li>Job applications
+      <li>Subscriptions
+      <li>Public record requests
+      <li>What can you dream up?</li>
+    </li>
   more: https://proudcity.com/forms
 integrations:
 - slug: romulus
