@@ -14,7 +14,7 @@
   video:
   plugin: wp-proud-payments
 - title: Forms
-  icon: fa-credit-card-o
+  icon: fa-file-text-o
   page: /wp-admin/admin.php?page=gf_edit_forms
   video:
   plugin: gravityforms
