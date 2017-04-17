@@ -117,6 +117,10 @@ integrations:
     Automatically add form submissions to MailChimp email lists and more.
   guide: https://proudcity.zendesk.com/hc/en-us/articles/216379847-Adding-MailChimp-to-your-website
   price: Free up to lists of 1000. Paid plans start at $10/mo.
+  options:
+  - key: gravityformsaddon_gravityformsmailchimp_settings.apiKey
+    label: MailChimp API Key
+    help: ""
 - slug: gravityformsconstantcontact
   image: https://tamretail.com/UserDefinedImages/PartnerConstantContactLogo.jpg
   title: Constant Contact
