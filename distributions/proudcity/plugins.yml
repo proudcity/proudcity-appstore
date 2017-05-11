@@ -57,7 +57,7 @@ proudcity:
   default: true
   icon: fa-mobile-phone
   title: Service Center
-  teaser: Full mobile-friendly website(s), content management system, user administration and more.
+  teaser: Become multi-channel: Facebook page, standalone app, embeddable widget
   screenshot:
   - https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/11/proudcity-service-center.png
   body: |
@@ -109,6 +109,15 @@ integrations:
     based on location, data similarities, while maximizing your efficiency dealing
     with citizen requests.
   guide: https://proudcity.zendesk.com/hc/en-us/articles/226334587-Adding-a-Romulus-CRM-Form
+- slug: wp-proud-dashboard
+  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
+  title: Google Analytics
+  teaser: ProudCity Analytics ties in to Google Analytics for deep tracking data.
+  body: |
+  options:
+    - key:
+      label: MailChimp API Key
+      help: ""
 - slug: gravityformsmailchimp
   image: //proudcity.github.io/proudcity-appstore/plugins/icons/mailchimp.jpg
   title: Mailchimp
