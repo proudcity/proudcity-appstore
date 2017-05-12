@@ -57,7 +57,7 @@ proudcity:
   default: true
   icon: fa-mobile-phone
   title: Service Center
-  teaser: Become multi-channel: Facebook page, standalone app, embeddable widget
+  teaser: "Become multi-channel: Facebook page, standalone app, embeddable widget"
   screenshot:
   - https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/11/proudcity-service-center.png
   body: |
