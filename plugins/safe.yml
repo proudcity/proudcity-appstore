@@ -1,0 +1,10 @@
+- name: romulus
+  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/romulus.png"
+  title: Roumulus
+  teaser: The Constituent Service Platform. Romulus powers communication, accountability, and better service for local governments.
+  body: |
+    Romulus makes it easy to collect the right information from your citizens
+    and route their request to the right department.  Collect interesting insights
+    based on location, data similarities, while maximizing your efficiency dealing
+    with citizen requests.
+  guide: https://proudcity.zendesk.com/hc/en-us/articles/226334587-Adding-a-Romulus-CRM-Form

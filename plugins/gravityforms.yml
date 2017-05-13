@@ -1,0 +1,21 @@
+name: gravityforms
+default: true
+icon: fa-file-text-o
+title: Forms
+teaser: Easy-to-build, mobile friendly forms for registrations, payments and more.
+screenshot:
+- https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/form-builder.gif
+body: |
+  ProudCity Forms makes it easy for governments to create and manage secure,
+  mobile-friendly online forms. Use for:
+  <ul>
+    <li>Payments (fines, tickets)<li>
+    <li>Permits
+    <li>Issue reporting
+    <li>Job applications
+    <li>Subscriptions
+    <li>Public record requests
+    <li>What can you dream up?</li>
+  </li>
+more: https://proudcity.com/forms
+included: web

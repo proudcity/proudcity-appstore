@@ -1,0 +1,12 @@
+name: wp-proud-actions-app
+default: true
+icon: fa-mobile-phone
+title: Service Center
+teaser: "Become multi-channel: Facebook page, standalone app, embeddable widget"
+screenshot:
+- https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/11/proudcity-service-center.png
+body: |
+  An easy way for governments to display digital services on Facebook, as a
+  standalone mobile app or an embedded widget on an existing website.
+more: https://proudcity.com/service-center
+admin: "/wp-admin/admin.php?page=service-center"

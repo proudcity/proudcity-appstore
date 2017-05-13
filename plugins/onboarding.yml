@@ -1,0 +1,24 @@
+name: onboarding
+icon: fa-rocket
+title: Onboarding
+teaser: Streamline your digital government training and new website launch with
+  the help of a ProudCity Ambassador.
+body: |
+  <p>Get a designated ProudCity Ambassador who works closely with your team
+  on an accellerated launch timeline (we're talking 30-60 days) and assists in information
+  architecture, project planning, execution, training and launch.</p>
+  <p>What you get:</p>
+  <ul>
+    <li>Designated ProudCity Ambassador who works closely with your team</li>
+    <li>Personalized experience tailored to your agency’s needs</li>
+    <li>Structured project management support</li>
+    <li>Accelerated launch timeline (BETA in 60 days, LIVE 30 days after)</li>
+    <li>Digital government best practices training (including new federal ADA guidelines)</li>
+    <li>ProudCity platform training to maximize use of best-in-industry features</li>
+    <li>Customization support and guidance</li>
+    <li>Content strategy and execution plan to help you move to user-first, mobile-first digital service delivery</li>
+    <li>Live chat, ticketing customer support</li>
+  </ul>
+more: https://proudcity.com/onboarding
+contact: true
+pricePerResident: 0.20
