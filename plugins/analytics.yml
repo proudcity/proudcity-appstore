@@ -1,0 +1,10 @@
+slug: analytics
+image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
+title: Google Analytics
+teaser: ProudCity Analytics ties in to Google Analytics for deep tracking data.
+body: |
+options:
+- key: mailchimp.apiKey
+  wp: gravityformsaddon_gravityformsmailchimp_settings.apiKey
+  label: MailChimp API Key
+  help: ""

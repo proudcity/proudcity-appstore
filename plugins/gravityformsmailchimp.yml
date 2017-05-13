@@ -1,9 +1,13 @@
-- name: wp-proud-seeclickfix
-  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/seeclickfix.png"
-  title: SeeClickFix
-  teaser: Issue reporting with a mobile-friendly interface and maps integrated into ProudCity
-  body: |
-    SeeClickFix encouraging residents to become active citizens in taking care
-    of and improving their city by reporting non-emergency issue in their neighborhood.
-  contact: true
-  more: https://gov.seeclickfix.com/2016/03/16/seeclickfix-on-proudcity/
+name: gravityformsmailchimp
+image: //proudcity.github.io/proudcity-appstore/plugins/icons/mailchimp.jpg
+title: Mailchimp
+teaser: MailChimp provides email marketing for more than 15 million people globally and is dead-simple to use.
+body: |
+  Automatically add form submissions to MailChimp email lists and more.
+guide: https://proudcity.zendesk.com/hc/en-us/articles/216379847-Adding-MailChimp-to-your-website
+price: Free up to lists of 1000. Paid plans start at $10/mo.
+options:
+- key: mailchimp.apiKey
+  wp: gravityformsaddon_gravityformsmailchimp_settings.apiKey
+  label: MailChimp API Key
+  help: ""

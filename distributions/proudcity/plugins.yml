@@ -46,7 +46,7 @@
   image: "//proudcity.github.io/proudcity-appstore/plugins/icons/romulus.png"
   title: Roumulus
   teaser: The Constituent Service Platform. Romulus powers communication, accountability, and better service for local governments.
-- name: google-analytics
+- name: analytics
   type: integration
   image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
   title: Google Analytics
