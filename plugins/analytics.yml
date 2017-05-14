@@ -3,6 +3,13 @@ image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.p
 title: Google Analytics
 teaser: ProudCity Analytics ties in to Google Analytics for deep tracking data.
 body: |
+  <p>Track site visits, engagement, popular pages, popular searches and more with the ProudCity Analytics Dashboard.  The
+  Dashboard shows up everytime you log into your site, so all content authors are consistently getting feedback and
+  incorporating it back in to your website</p>
+  <p>All site analytics data is stored in Google Analytics, so you can access comprehensive reports can always be accessed
+  directly from Google Analytics. </p>
+screenshot:
+- //proudcity.github.io/proudcity-appstore/plugins/screenshots/analytics.png
 options:
 - key: google_analytics.tracking_id
   wp: google_analytics
