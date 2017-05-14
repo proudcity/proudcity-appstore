@@ -1,4 +1,4 @@
-slug: safe
+name: safe
 default: true
 icon: fa-lock
 title: Safe
