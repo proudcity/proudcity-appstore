@@ -1,7 +1,7 @@
 name: analytics
 image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
-title: Google Analytics
-teaser: ProudCity Analytics ties in to Google Analytics for deep tracking data.
+title: ProudCity Analytics
+teaser: Powered by Google Analytics.  Don't just track visitors, track how well you're serving your visitors.
 body: |
   <p>Track site visits, engagement, popular pages, popular searches and more with the ProudCity Analytics Dashboard.  The
   Dashboard shows up everytime you log into your site, so all content authors are consistently getting feedback and
