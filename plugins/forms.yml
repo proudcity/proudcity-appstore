@@ -1,4 +1,5 @@
-name: gravityforms
+name: forms
+slug: gravityforms
 default: true
 icon: fa-file-text-o
 title: Forms

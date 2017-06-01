@@ -1,9 +1,11 @@
-- name: gravityformsstripe
+- name: forms
+  slug: gravityformsstripe
   type: proudcity
   icon: fa-credit-card
   title: Payments
   teaser: PCI compliant payment transactions for permitting, tickets and more.
-- name: elasticpress
+- name: search
+  slug: elasticpress
   type: proudcity
   icon: fa-search
   title: Search Plus
@@ -21,7 +23,8 @@
   icon: fa-list-alt
   title: Web
   teaser: Full mobile-friendly website(s), content management system, user administration and more.
-- name: wp-proud-actions-app
+- name: servicecenter
+  name: wp-proud-actions-app
   type: proudcity
   default: true
   icon: fa-mobile-phone
@@ -33,18 +36,18 @@
   icon: fa-lock
   title: Safe
   teaser: Continuous free software upgrades, secure cloud-based hosting, backups, disaster recovery and HTTPS encryption.
-- name: gravityforms
+- name: forms
+  slug: gravityforms
   type: proudcity
   default: true
   icon: fa-file-text-o
   title: Forms
   teaser: Easy-to-build, mobile friendly forms for registrations, payments and more.
-
-
 - name: romulus
+  slug: romulus
   type: integration
   image: "//proudcity.github.io/proudcity-appstore/plugins/icons/romulus.png"
-  title: Roumulus
+  title: Romulus
   teaser: The Constituent Service Platform. Romulus powers communication, accountability, and better service for local governments.
 - name: analytics
   type: integration
@@ -52,28 +55,30 @@
   image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
   title: Google Analytics
   teaser: ProudCity Analytics ties in to Google Analytics for deep tracking data.
-- name: gravityformsmailchimp
+- name: mailchimp
+  slug: gravityformsmailchimp
   type: integration
   image: //proudcity.github.io/proudcity-appstore/plugins/icons/mailchimp.jpg
   title: Mailchimp
   teaser: MailChimp provides email marketing for more than 15 million people globally and is dead-simple to use.
-- name: gravityformsconstantcontact
+- name: constantcontact
+  slug: gravityformsconstantcontact
   type: integration
   image: https://tamretail.com/UserDefinedImages/PartnerConstantContactLogo.jpg
   title: Constant Contact
   teaser: Constant Contact is a mass email provider.
-- name: wp-proud-seeclickfix
+- name: seeclickfix
+  slug: wp-proud-seeclickfix
   type: integration
   image: "//proudcity.github.io/proudcity-appstore/plugins/icons/seeclickfix.png"
   title: SeeClickFix
   teaser: Issue reporting with a mobile-friendly interface and maps integrated into ProudCity.
-- name: gravityformszapier
+- name: googlesheets
+  slug: gravityformszapier
   type: integration
   image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googlesheets.png"
   title: Google Sheets
   teaser: Save new Gravity Forms submissions to a Google Sheets spreadsheet with Zapier
-
-
 - name: pagefreezer
   type: partner
   image: //proudcity.github.io/proudcity-appstore/plugins/icons/pagefreezer.png

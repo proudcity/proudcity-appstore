@@ -1,4 +1,5 @@
-name: gravityformsmailchimp
+name: mailchimp
+slug: gravityformsmailchimp
 image: //proudcity.github.io/proudcity-appstore/plugins/icons/mailchimp.jpg
 title: Mailchimp
 teaser: MailChimp provides email marketing for more than 15 million people globally and is dead-simple to use.

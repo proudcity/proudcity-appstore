@@ -1,4 +1,5 @@
 name: analytics
+default: true
 image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
 title: ProudCity Analytics
 teaser: Powered by Google Analytics.  Don't just track visitors, track how well you're serving your visitors.

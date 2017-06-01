@@ -1,4 +1,5 @@
-name: wp-proud-actions-app
+name: servicecenter
+slug: wp-proud-actions-app
 default: true
 icon: fa-mobile-phone
 title: Service Center

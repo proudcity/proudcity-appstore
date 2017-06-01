@@ -1,4 +1,5 @@
-name: gravityformszapier
+name: googlesheets
+slug: gravityformszapier
 image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googlesheets.png"
 title: Google Sheets
 teaser: Save new Gravity Forms submissions to a Google Sheets spreadsheet with Zapier
