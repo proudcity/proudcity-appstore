@@ -24,7 +24,7 @@
   title: Web
   teaser: Full mobile-friendly website(s), content management system, user administration and more.
 - name: servicecenter
-  name: wp-proud-actions-app
+  slug: wp-proud-actions-app
   type: proudcity
   default: true
   icon: fa-mobile-phone
