@@ -41,9 +41,8 @@ options:
     <ol>
       <li>Click on Admin, select your Account</li>
       <li>In the Account (first) column, click User Management</li>
-      <li>Add the ProudCity robot account <strong>analytics@my-proudcity.iam.gserviceaccount.com</strong> with <strong>Read &amp; Analyze</strong> access</li>
+      <li>Add the ProudCity robot account <div><code>analytics@my-proudcity.iam.gserviceaccount.com</code></div> with <code>Read &amp; Analyze</code> access</li>
     </ol>
-help:
-  docs:
-  - title: What is my ProudScore
-    link: https://proudcity.zendesk.com/hc/en-us/articles/115008023087-Analytics-What-is-my-ProudScore-
+docs:
+- title: What is my ProudScore
+  link: https://proudcity.zendesk.com/hc/en-us/articles/115008023087-Analytics-What-is-my-ProudScore-
