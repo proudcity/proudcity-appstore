@@ -4,6 +4,16 @@
   icon: fa-list-alt
   link: 
   video: v2Hm-XkZ0WY
+- key: pages
+  title: Create pages
+  icon: fa-file
+  link: "/wp-admin/edit.php?post_type=page"
+  video: 
+- key: answers
+  title: Add answers
+  icon: fa-question
+  link: "/wp-admin/edit.php?post_type=question"
+  video: 
 - key: media
   title: Add imagery
   icon: fa-picture-o
@@ -12,8 +22,47 @@
 - key: appearance
   title: Configure appearance
   icon: fa-paint-brush
-  link: wp-admin/customize.php?return=/wp-admin
+  link: "wp-admin/customize.php?return=/wp-admin"
   video: 
+- key: home
+  title: Edit homepage
+  icon: fa-th-large
+  link: "/wp-admin/post.php?post=139&action=edit"
+  video: 
+- key: agencies
+  title: Create agencies
+  icon: fa-university
+  link: "/wp-admin/edit.php?post_type=agency"
+  video: gWDzE7O5uro
+- key: contacts
+  title: Create contacts
+  icon: fa-users
+  link: "/wp-admin/edit.php?post_type=staff-member"
+  video: gWDzE7O5uro
+- key: forms
+  title: Add forms
+  icon: fa-check-square-o
+  link: "/wp-admin/admin.php?page=wpcf7"
+- key: documents
+  title: Add documents
+  icon:  fa-book
+  link: "/wp-admin/edit.php?post_type=document"
+- key: News
+  title: Post news
+  icon:  fa-newspaper-o
+  link: "/wp-admin/edit.php"
+- key: Events
+  title: Post events
+  icon:  fa-calendar
+  link: "/wp-admin/edit.php?post_type=event"
+- key: payments
+  title: Set up payments
+  icon:  fa-usd
+  link: "/wp-admin/edit.php?post_type=payment"
+- key: issues
+  title: Set up issues
+  icon:  fa-wrench
+  link: "/wp-admin/edit.php?post_type=issue"
 - key: integrations
   title: Select integrations
   icon: fa-share-square
@@ -24,28 +73,8 @@
   icon: fa-comments
   link: "/wp-admin/admin.php?page=social"
   video: 
-- key: home
-  title: Edit homepage
-  icon: fa-th-large
-  link: "/wp-admin/post.php?post=139&action=edit"
+- key: launch
+  title: BETA and Launch
+  icon: fa-rocket
+  link: "https://proudcity.zendesk.com/hc/en-us/articles/222351267-Launch-Guide"
   video: 
-- key: answers
-  title: Add answers
-  icon: fa-list-alt
-  link: "/wp-admin/edit.php?post_type=question"
-  video: rGPs8nPEA4E
-- key: payments
-  title: Set up payments
-  icon: fa-credit-card
-  link: "/wp-admin/edit.php?post_type=payment"
-  video: GfggmaEypdg
-- key: agencies
-  title: Create agencies
-  icon: fa-university
-  link: "/wp-admin/edit.php?post_type=agency"
-  video: gWDzE7O5uro
-- key: forms
-  title: Add forms
-  icon: fa-check-square-o
-  link: "/wp-admin/admin.php?page=wpcf7"
-
