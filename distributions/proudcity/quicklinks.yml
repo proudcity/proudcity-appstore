@@ -32,22 +32,27 @@
   page: /wp-admin/edit.php?post_type=question
   plugin:
   video: 
-  - title: Departments
+- title: Departments
   icon: fa-sitemap
   page: /wp-admin/edit.php?post_type=agency
   plugin:
   video: 
-  - title: Issues
+- title: Issues
   icon: fa-wrench
   page: /wp-admin/edit.php?post_type=issue
   plugin:
   video: 
-  - title: Contacts
+- title: Contacts
   icon: fa-users
   page: /wp-admin/edit.php?post_type=staff-member
   plugin:
   video: 
-  - title: Media
+- title: Jobs
+  icon:  fa-briefcase
+  page: /wp-admin/edit.php?post_type=job_listing
+  plugin:
+  video: 
+- title: Media
   icon:  fa-picture-o
   page: /wp-admin/upload.php
   plugin:
