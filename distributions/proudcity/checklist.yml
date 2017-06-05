@@ -63,6 +63,10 @@
   title: Set up issues
   icon:  fa-wrench
   link: "/wp-admin/edit.php?post_type=issue"
+- key: Jobs
+  title: Create issues
+  icon:  fa-briefcase
+  link: "/wp-admin/edit.php?post_type=job_listing"
 - key: integrations
   title: Select integrations
   icon: fa-share-square
