@@ -14,16 +14,6 @@
   icon: fa-question
   link: "/wp-admin/edit.php?post_type=question"
   video: 
-- key: media
-  title: Add imagery
-  icon: fa-picture-o
-  link: "/wp-admin/upload.php"
-  video: 
-- key: appearance
-  title: Configure appearance
-  icon: fa-paint-brush
-  link: "wp-admin/customize.php?return=/wp-admin"
-  video: 
 - key: home
   title: Edit homepage
   icon: fa-th-large
