@@ -54,7 +54,7 @@
   icon:  fa-wrench
   link: "/wp-admin/edit.php?post_type=issue"
 - key: Jobs
-  title: Create issues
+  title: Create jobs
   icon:  fa-briefcase
   link: "/wp-admin/edit.php?post_type=job_listing"
 - key: integrations
