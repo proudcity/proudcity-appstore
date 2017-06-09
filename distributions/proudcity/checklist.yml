@@ -23,12 +23,11 @@
   title: Create agencies
   icon: fa-university
   link: "/wp-admin/edit.php?post_type=agency"
-  video: gWDzE7O5uro
+  video: a3YTmChsYuw
 - key: contacts
   title: Create contacts
   icon: fa-users
   link: "/wp-admin/edit.php?post_type=staff-member"
-  video: gWDzE7O5uro
 - key: forms
   title: Add forms
   icon: fa-check-square-o
@@ -49,6 +48,7 @@
   title: Set up payments
   icon:  fa-usd
   link: "/wp-admin/edit.php?post_type=payment"
+  video: nWrBPrTEAbg
 - key: issues
   title: Set up issues
   icon:  fa-wrench
