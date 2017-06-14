@@ -27,6 +27,7 @@ options:
 - key: google_analytics.view_id
   label: View ID
   placeholder: 123456789
+  value_prefix: "ga:"
   help: |
     <ol>
       <li>Click on Admin, select your Account and Property</li>
