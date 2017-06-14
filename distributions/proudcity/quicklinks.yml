@@ -4,12 +4,12 @@
   page: /wp-admin/edit.php?post_type=page
   video: v2Hm-XkZ0WY
 - title: Documents
-  icon: fa-question
+  icon:  fa-book
   page: /wp-admin/edit.php?post_type=document
   plugin: wp-proud-document
   video: 
 - title: Payments
-  icon: fa-file-text
+  icon:  fa-usd
   page: /wp-admin/edit.php?post_type=payment
   video:
   plugin: wp-proud-payments
@@ -27,8 +27,33 @@
   page: /wp-admin/edit.php?post_type=event
   video:
   plugin: wp-proud-payments
-- title: Social
-  icon: fa-comments
-  page:
-  video:
-  plugin: wp-proud-social-app
+- title: Answers
+  icon: fa-question
+  page: /wp-admin/edit.php?post_type=question
+  plugin:
+  video: 
+- title: Departments
+  icon: fa-sitemap
+  page: /wp-admin/edit.php?post_type=agency
+  plugin:
+  video: 
+- title: Issues
+  icon: fa-wrench
+  page: /wp-admin/edit.php?post_type=issue
+  plugin:
+  video: 
+- title: Contacts
+  icon: fa-users
+  page: /wp-admin/edit.php?post_type=staff-member
+  plugin:
+  video: 
+- title: Jobs
+  icon:  fa-briefcase
+  page: /wp-admin/edit.php?post_type=job_listing
+  plugin:
+  video: 
+- title: Media
+  icon:  fa-picture-o
+  page: /wp-admin/upload.php
+  plugin:
+  video: 
