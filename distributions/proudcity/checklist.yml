@@ -61,12 +61,16 @@
   title: Select integrations
   icon: fa-share-square
   link: "/wp-admin/admin.php?page=integrations"
-  video: 
+  video:
 - key: social
   title: Set up social feed
   icon: fa-comments
   link: "/wp-admin/admin.php?page=social"
-  video: 
+  video:
+- key: analytics
+  title: Set up Google Analytics
+  icon: fa-comments
+  dashboardLink: "/addons/analytics/configure"
 - key: launch
   title: BETA and Launch
   icon: fa-rocket
