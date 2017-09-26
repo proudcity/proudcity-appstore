@@ -84,3 +84,8 @@
   image: //proudcity.github.io/proudcity-appstore/plugins/icons/pagefreezer.png
   title: PageFreezer
   teaser: Comply with Open Records Laws by saving archives of your website and social media feeds
+- name: govready
+  type: partner
+  image: //proudcity.github.io/proudcity-appstore/plugins/icons/govready.png
+  title: GovReady
+  teaser: A self-service portal to help teams build and operate compliant IT systems.
