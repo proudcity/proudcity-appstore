@@ -5,11 +5,9 @@
 - name: Recovery
   slug: recovery
   price: "$0.01"
-  beta: true
 - name: Meeting
   slug: meetingtemplate
   price: "$0.01"
-  beta: true
 - name: Agency
   slug: agencytemplate
   price: "$0.0025"
