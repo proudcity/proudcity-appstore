@@ -8,12 +8,12 @@
   price: "$0.01"
   description: A ready-made, customizable website theme used to communicate response and recovery resources and information during natural disaster events
 - name: ProudCity Meetings Instance
-  slug: meetingtemplate
+  slug: meetingstemplate
   description: ProudCity Meetings lets government easily publish and manage meeting minutes, agendas and videos.
   price: "$0.01"
 - name: Agency Site
   slug: agencytemplate
   price: "$0.0025"
 - name: Service Center
-  slug: service-center
+  slug: servicecenter
   price: "$0.01"
