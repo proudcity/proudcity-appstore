@@ -2,12 +2,6 @@
 - name: ProudCity
   slug: citytemplate
   price: "$0.02"
-- name: Service Center
-  slug: service-center
-  price: "$0.01"
-- name: Agency
-  slug: agencytemplate
-  price: "$0.0025"
 - name: Recovery
   slug: recovery
   price: "$0.01"
@@ -16,3 +10,9 @@
   slug: meetingtemplate
   price: "$0.01"
   beta: true
+- name: Agency
+  slug: agencytemplate
+  price: "$0.0025"
+- name: Service Center
+  slug: service-center
+  price: "$0.01"
