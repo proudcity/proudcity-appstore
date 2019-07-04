@@ -1,13 +1,13 @@
 ---
-- name: ProudCity
+- name: ProudCity Website
   slug: citytemplate
   price: "$0.02"
   description: From websites, meetings, to online forms and payments, the easiest, most cost-effective way to launch and manage all aspects of your digital government operations.
-- name: ProudCity Recovery
+- name: ProudCity Recovers Site
   slug: recovers
   price: "$0.01"
   description: A ready-made, customizable website theme used to communicate response and recovery resources and information during natural disaster events
-- name: ProudCity Meetings
+- name: ProudCity Meetings Instance
   slug: meetingtemplate
   description: ProudCity Meetings lets government easily publish and manage meeting minutes, agendas and videos.
   price: "$0.01"
