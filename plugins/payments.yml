@@ -1,10 +1,9 @@
 name: payments
-name: gravityformsstripe
 icon: fa-credit-card
 title: Payments
 teaser: PCI compliant payment transactions for permitting, tickets and more.
 screenshot:
-- //proudcity.github.io/proudcity-appstore/plugins/screenshots/payments.png
+- //proudcity.github.io/proudcity-appstore/plugins/screenshots/meetings.png
 body: |
   <p>Accept payments online without the hassle.  ProudCity Payments is easy to set up --
     you can start accepting online payments in a couple house: just complete our sign up form,
