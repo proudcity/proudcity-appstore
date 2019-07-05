@@ -13,7 +13,7 @@ screenshot:
 - //proudcity.github.io/proudcity-appstore/plugins/screenshots/analytics.png
 options:
 - key: google_analytics.tracking_id
-  wp_option: google_analytics
+  wp_option: google_analytics_key
   label: Tracking ID
   placeholder: UA-12345678-1
   help: |
