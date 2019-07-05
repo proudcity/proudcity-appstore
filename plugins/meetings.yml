@@ -1,9 +1,8 @@
-name: romulus
-slug: romulus
-title: Romulus
-type: integration
-image: "//proudcity.github.io/proudcity-appstore/plugins/icons/romulus.png"
-teaser: The Constituent Service Platform. Romulus powers communication, accountability, and better service for local governments.
+name: meetings
+slug: wp-proud-meetings
+title: Government Meetings
+image: "//proudcity.github.io/proudcity-appstore/plugins/icons/meetings.png"
+teaser: ProudCity Meetings lets government easily publish and manage meeting minutes, agendas and videos.
 body:
 contact: true
-more:
+more: //proudcity.com/meetings
